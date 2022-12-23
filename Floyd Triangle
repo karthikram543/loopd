@@ -1,7 +1,7 @@
 public class Floyd{
 	  public static void main (String[]args) {
-		 child Child = new child();
-		 Child.loop(5);
+		 Floyd floyd = new Floyd();
+		 floyd.loop(5);
 		 
 	 }
 	 
